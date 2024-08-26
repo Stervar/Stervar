@@ -44,7 +44,8 @@
 
 <h2 align="center"> ❃Information and statistics❃ </h2>  
 
-## ◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+ </h2>  
 
 <details align="left">
   <summary><h2><b>📚 My stack 📚</b></h2></summary>
