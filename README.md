@@ -21,4 +21,4 @@
 ## ❃On this page you can find all the information how to contact me and what knowledge I have❃
 ## ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-![Header](https://raw.githubusercontent.com/Stervar/Stervar/main/assets/i%20(1).webp) 
+
