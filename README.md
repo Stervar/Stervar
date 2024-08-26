@@ -35,27 +35,13 @@
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Stervar&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://metrics.lecoq.io/Stervar" />
   </p>
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&layout=compact)](https://github.com/Stervar/Stervar/blob/main/README.md)
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true" />
-</picture>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stervar&repo=github-readme-stats)]
