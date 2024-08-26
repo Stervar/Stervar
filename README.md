@@ -43,7 +43,7 @@
 
 ## ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-
+<h2 align="center"> ❃Information and statistics❃ </h2>  
 
 
 <details align="left">
