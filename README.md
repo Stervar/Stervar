@@ -53,9 +53,7 @@
     <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=git&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,visualstudiocode&perline=7" />
-    <br>
+    <h3>Software</h3>  
   </p>
 </details>
 
@@ -66,7 +64,6 @@
    <br>
    <img src="https://github-readme-stats.vercel.app/api?username=Stervar&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/Stervar" />
   </p>
 </details>
 
