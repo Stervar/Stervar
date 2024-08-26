@@ -65,7 +65,7 @@
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Stervar&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
     <br>
   </p>
 </details>
