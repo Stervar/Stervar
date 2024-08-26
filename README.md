@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi traveler all the information about me t my knowledge below👋 </h1>
+<h1 align="center"> ❃Hi traveler all information about me and my knowledge below❃ </h1>
 
 <p align="center">
  
