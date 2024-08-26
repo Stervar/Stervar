@@ -54,7 +54,7 @@
     <h3>💠 Frameworks 💠 / 💠 Tools 💠</h3>
     <img src="https://skillicons.dev/icons?i=git&perline=7" />
     <h3>⚙️ Software ⚙️</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,visualcode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vsc&perline=7" />
     <br>
   </p>
 </details>
