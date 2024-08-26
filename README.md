@@ -7,3 +7,12 @@
 ## ❃Я всегда с радостью принимаю новые вызовы в коде и его понимание, я стремлюсь к полному понимаю кода и стараюсь над каждой своей работой❃
 
 ## ❃На этой странице вы сможете найти всю информацию как связаться со мной и какими знаниями я обладаю❃
+
+## ❃Hello everyone, my name is Vadim I am 16 years old and an aspiring programmer who every day strives for new achievements in his life and his skills❃
+
+## ❃I really like to discover something new and study topics that have not been studied yet. Each new assignment is like a new stage for me, which I pass completely ( It can even be seen in my work and assignments that I do )❃ ❃
+
+## ❃ I am always excited to take on new challenges in code and understanding it, I strive to fully understand the code and work hard on each of my work❃
+
+## ❃On this page you can find all the information how to contact me and what knowledge I have❃
+
