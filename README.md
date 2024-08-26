@@ -15,7 +15,7 @@
 
 ## ❃Hello everyone, my name is Vadim I am 16 years old and an aspiring programmer who every day strives for new achievements in his life and his skills❃
 
-## ❃I really like to discover something new and study topics that have not been studied yet. Each new assignment is like a new stage for me, which I pass completely ( It can even be seen in my work and assignments that I do )❃ ❃
+## ❃I really like to discover something new and study topics that have not been studied yet. Each new assignment is like a new stage for me, which I pass completely ( It can even be seen in my work and assignments that I do )❃ 
 
 ## ❃ I am always excited to take on new challenges in code and understanding it, I strive to fully understand the code and work hard on each of my work❃
 
