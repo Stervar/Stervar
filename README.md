@@ -23,3 +23,24 @@
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IRISHCAR)
+[![Discord](https://img.shields.io/badge/-Discord-090909?
+style=for-the-badge&logo=discord&logoColor=7289DA)](https://
+discord.com/users/IRISHCAR)
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?
+style=for-the-badge&logo=github&logoColor=white)](https://github.com
+/Stervar)
+[![VK](https://img.shields.io/badge/-VK-090909?
+style=for-the-badge&logo=vk&logoColor=4F7DB0)](
+    https://vk.com/irishcar)
+    [![Instagram](https://img.shields.io/badge/-Instagram-090909?
+    style=for-the-badge&logo=instagram&logoColor=B408C5)](https://
+    instagram.com/irishcar)
+    [![YouTube](https://img.shields.io/badge/-YouTube-090909?
+    style=for-the-badge&logo=youtube&logoColor=FF0000)](https
+    ://youtube.com/IRISHCAR)
+    [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-090
+    909?
+    style=for-the-badge&logo=stackoverflow&logoColor=FE7A16)](
+        https://stackoverflow.com/users/IRISHCAR)
+        
+[![WhatsApp] (https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
