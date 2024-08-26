@@ -31,7 +31,7 @@
 [![WhatsApp] (https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
 
 <details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
+  <summary><h2><b>📚 My stack 📚</b></h2></summary>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,&perline=7" />
@@ -44,7 +44,7 @@
 </details>
 
 <details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <summary><h2><b>⭐ GitHub stats ⭐</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
