@@ -51,7 +51,7 @@
   <p>
     <h3>🌐 Langs 🌐</h3>
     <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,&perline=7" />
-    <h3>💠 Frameworks 💠 / Tools</h3>
+    <h3>💠 Frameworks 💠 / 💠 Tools 💠</h3>
     <img src="https://skillicons.dev/icons?i=git&perline=7" />
     <h3>⚙️ Software ⚙️</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,visualstudiocode&perline=7" />
