@@ -28,4 +28,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Stervar/Stervar/blob/main/README.md)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stervar)](https://github.com/Stervar/Stervar/blob/main/README.md)
