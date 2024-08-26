@@ -48,7 +48,7 @@
  </h2>  
 
 <details align="left">
-  <summary><h2><b>📚 My stack 📚</b></h2></summary>
+  <h2 align="center">📚 My stack 📚</h2> 
   <p>
     <h3>🌐 Langs 🌐</h3>
     <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,&perline=7" />
