@@ -1,6 +1,10 @@
 
-### 
-            Hello traveler all the information below 
+<h1 align="center">👋 Hi traveler all the information about me t my knowledge below👋 </h1>
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ![Header](https://github.com/Stervar/Stervar/blob/main/assets/f53336607ee8c6478f25d2665d7d5c3b.gif) 
 
 ### About me                                                    
