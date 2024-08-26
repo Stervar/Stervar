@@ -40,7 +40,7 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: green)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true"
@@ -48,3 +48,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true" />
 </picture>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Stervar&repo=github-readme-stats)](https://github.com/Stervar/github-readme-stats)
