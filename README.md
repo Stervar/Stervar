@@ -34,9 +34,9 @@
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,web&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
     <br>
