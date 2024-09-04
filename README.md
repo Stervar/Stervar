@@ -1,19 +1,19 @@
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻◣
  </h2>
 <h1 align="center"> ❃Hi traveler all information about me and my knowledge below❃ </h1>
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻◣
  </h2>
 
  
 
 ![Header](https://github.com/Stervar/Stervar/blob/main/assets/f53336607ee8c6478f25d2665d7d5c3b.gif) 
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻◣
  </h2>
 <h2 align="center"> ❃About me❃ </h2>  
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻◣
  </h2>
 
 •👋Меня зовут Вадим мне 16 лет и начинающий программист который каждый день стремиться к новым достижениям в своей жизни и своих умениях👋
@@ -24,7 +24,7 @@
 
 •📑этой странице вы сможете найти всю информацию как связаться со мной и какими знаниями я обладаю📑
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻◣
  </h2>
  
 •👋My name is Vadim I am 16 years old and an aspiring programmer who every day strives for new achievements in his life and his skills
@@ -34,7 +34,7 @@
 •🌟I am always excited to take on new challenges in code and understanding it, I strive to fully understand the code and work hard on each of my work🌟
 
 •📑On this page you can find all the information how to contact me and what knowledge I have📑
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻◣
  </h2>
 
 <h2 align="center"> ❃Connecting with me and my cell networks❃ </h2>  
@@ -42,11 +42,11 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IRISHCAR) 
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻◣
  </h2>
 <h2 align="center"> ❃Information and statistics❃ </h2>  
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻◣
  </h2>  
 
 <details align="left">
