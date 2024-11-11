@@ -28,25 +28,26 @@
 
 <details align="left">
   <summary><h3>🛠 Языки Программирования</h3></summary>
-  <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,css,typescript&perline=7" width="250"/>
+  <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,css,typescript&perline=7" width="200"/>
 </details>
 
 <details align="left">
   <summary><h3>🔧 Инструменты и Фреймворки</h3></summary>
     <details>
       <summary><h4>🛠 Инструменты разработки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="250"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="200"/>
     </details>
 </p>
     <details>
       <summary><h4>🌐 Фреймворки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=django,react,fastapi&perline=7" width="250"/>
+      <img src="https://skillicons.dev/icons?i=django,react,fastapi&perline=7" width="200"/>
     </details>
 </p>
     <details>
       <summary><h4>☁️ Облачные технологии</h4></summary>
-      <img src="https://skillicons.dev/icons?i=aws,heroku,vercel&perline=7" width="250"/>
+      <img src="https://skillicons.dev/icons?i=aws,heroku,vercel&perline=7" width="200"/>
     </details>
+    </p>
 </details>
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
   
