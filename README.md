@@ -53,15 +53,17 @@
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
   <div align="center">
 
-## 📚 Проекты и Достижения 🏆
+# 📚 Проекты и Достижения 🏆
 </div>
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
-
-## 1. 🧮 Терминальный Калькулятор
-
 <div align="center">
-  <img src="https://github.com/Stervar/Calculator-Terminal/blob/main/Снимок%20экрана%20(5).png" width="800" alt="Терминальный Калькулятор">
+
+## 1. 🧮 Терминальный Калькулятор 🧮
+
+</div>
+<div align="center">
+  <img src="https://github.com/Stervar/Calculator-Terminal/blob/main/Снимок%20экрана%20(5).png" width="" alt="Терминальный Калькулятор">
 </div>
 
 **Описание проекта:**
