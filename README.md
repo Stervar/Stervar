@@ -24,23 +24,28 @@
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 <div align="center">
 
-# 💻 Технологический Арсенал
-</div>
+## 💻 Технологический Арсенал
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<details align="left">
+  <summary><h3>🛠 Языки Программирования</h3></summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,css&perline=7" width="500"/>
+  </p>
+</details>
 
-### 🛠 Языки Программирования
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-
-### 🔧 Инструменты и Фреймворки
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
-
-<div align="center">
+<details align="left">
+  <summary><h3>🔧 Инструменты и Фреймворки</h3></summary>
+  <p>
+    <h4>🌐 Фреймворки</h4>
+    <img src="https://skillicons.dev/icons?i=django,react,fastapi&perline=7" width="500"/>
+    
+    <h4>🛠 Инструменты разработки</h4>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="500"/>
+    
+    <h4>☁️ Облачные технологии</h4>
+    <img src="https://skillicons.dev/icons?i=aws,heroku,vercel&perline=7" width="500"/>
+  </p>
+</details>
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
   
