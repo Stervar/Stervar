@@ -29,25 +29,29 @@
 <details align="left">
   <summary><h3>🛠 Языки Программирования</h3></summary>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,css&perline=7" width="500"/>
+    <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,css&perline=7" width="300"/>
   </p>
 </details>
 
 <details align="left">
   <summary><h3>🔧 Инструменты и Фреймворки</h3></summary>
   <p>
-  <h5>🛠 Инструменты разработки</h5>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="500"/>
+    <details>
+      <summary><h4>🛠 Инструменты разработки</h4></summary>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="300"/>
+    </details>
 
-    <h4>🌐 Фреймворки</h4>
-    <img src="https://skillicons.dev/icons?i=django,react,fastapi&perline=7" width="500"/>
+    <details>
+      <summary><h4>🌐 Фреймворки</h4></summary>
+      <img src="https://skillicons.dev/icons?i=django,react,fastapi&perline=7" width="300"/>
+    </details>
 
-    
-    <h4>☁️ Облачные технологии</h4>
-    <img src="https://skillicons.dev/icons?i=aws,heroku,vercel&perline=7" width="500"/>
+    <details>
+      <summary><h4>☁️ Облачные технологии</h4></summary>
+      <img src="https://skillicons.dev/icons?i=aws,heroku,vercel&perline=7" width="300"/>
+    </details>
   </p>
 </details>
-
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
   
 # 🏆 Мои Проекты / My Projects
