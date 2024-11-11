@@ -40,7 +40,7 @@
 </p>
     <details>
       <summary><h4>🌐 Фреймворки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=django&perline=7" width="200"/>
+      <img src="https://skillicons.dev/icons?i=django&perline=7" width="100"/>
     </details>
 </p>
 </details>
