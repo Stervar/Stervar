@@ -1,83 +1,72 @@
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
 
- 
-<h1 align="center"> ❃Hi traveler all information about me and my knowledge below❃ </h1>
+<h1 align="center">🚀 Вадим Стерваков: Молодой Технологический Первопроходец 🌟</h1>
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
 
- 
+![Header](https://github.com/Stervar/Stervar/blob/main/assets/f53336607ee8c6478f25d2665d7d5c3b.gif)
 
-![Header](https://github.com/Stervar/Stervar/blob/main/assets/f53336607ee8c6478f25d2665d7d5c3b.gif) 
+## 🌈 Обо Мне / About Me
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
- 
-<h2 align="center"> ❃About me❃ </h2>  
+### 👤 Личность и Философия / Personality & Philosophy
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
+> "Технология - это не просто код, это искусство решения сложных задач простыми и элегантными средствами"
 
-•👋Меня зовут Вадим, мне 16 лет, и начинающий программист который каждый день стремиться к новым достижениям в своей жизни и своих умениях👋
+🎯 **Миссия:** Постоянно расширять границы возможного, создавая инновационные решения
 
-•👨‍💻Мне очень нравиться открывать что то новое и изучать темы которые ещё не были изучены. Каждое новое задание для меня как новый этап который я прохожу полностью ( Это даже можно увидеть в моих работах и заданиях которые я выполняю )👨‍💻
+### 🚀 Ключевые Характеристики / Key Characteristics
 
-•🌟Я всегда с радостью принимаю новые вызовы в коде и его понимание, я стремлюсь к полному понимаю кода и стараюсь над каждой своей работой🌟
+- 💡 Возраст: 16 лет
+- 🧠 Статус: Начинающий разработчик с большим потенциалом
+- 🌟 Девиз: Каждый день - новое знание, каждый проект - новый вызов
 
-•📑На этой странице вы сможете найти всю информацию как связаться со мной и какими знаниями я обладаю📑
+## 💻 Технологический Арсенал / Technology Arsenal
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
- 
-•👋My name is Vadim, I am 16 years old, and an aspiring programmer who every day strives for new achievements in his life and his skills
+### 🛠 Языки Программирования / Programming Languages
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-•👨‍💻I really like to discover something new and study topics that have not been studied yet. Each new assignment is like a new stage for me, which I pass completely ( It can even be seen in my work and assignments that I do )👨‍💻
+### 🔧 Инструменты и Фреймворки / Tools & Frameworks
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code)
 
-•🌟I am always excited to take on new challenges in code and understanding it, I strive to fully understand the code and work hard on each of my work🌟
+## 🏆 Мои Уникальные Проекты / Unique Projects
 
-•📑On this page you can find all the information how to contact me and what knowledge I have📑
+### 1. 🧮 Терминальный Калькулятор
+- Революционный математический инструмент
+- Поддержка 50+ математических функций
+- Безопасный AST-парсинг
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
- 
-<h2 align="center"> ❃Connecting with me and my cell networks❃ </h2>  
+### 2. 🐍 Терминальные Игры
+- Snake-Terminal: Интерактивная игра с уникальным управлением
+- Heart-3D-Terminal: 3D визуализация в терминале
+- Spiral-3D-Terminal: Динамические спирали
 
+### 3. 🤖 Telegram Бот
+- Полностью самостоятельная разработка
+- Интеллектуальное взаимодействие с пользователем
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/IIIASIll) 
+## 🌟 Мои Преимущества / Advantages
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
- 
-<h2 align="center"> ❃Information and statistics❃ </h2>  
+- 🔍 Постоянное самообразование
+- 💡 Креативный подход к решению задач
+- 🚀 Быстрое освоение новых технологий
+- 🤝 Командный игрок с индивидуальным почерком
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
- 
-<details align="left">
-  <summary><h2><b>📚 My stack 📚</b></h2></summary>
-  <p>
-    <h3>🌐 Langs 🌐</h3>
-    <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,&perline=7" />
-    <h3>💠 Frameworks 💠 / 💠 Tools 💠</h3>
-    <img src="https://skillicons.dev/icons?i=git&perline=7" />
-    <h3>⚙️ Software ⚙️</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,visualstudiocode&perline=7" />
-    <br>
-  </p>
-</details>
+## 📊 Статистика GitHub / GitHub Stats
 
-<details align="left">
-  <summary><h2><b>⭐ GitHub stats ⭐</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Stervar&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-    <br>
-  </p>
-</details>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&layout=compact&theme=radical)
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
- </h2>
+## 🌐 Контакты / Contacts
 
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/IIIASIll)
 
+## 💭 Напутствие / Inspiration
+
+> Технология - это не просто инструмент, это способ изменить мир к лучшему, один код за раз.
+
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
