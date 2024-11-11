@@ -28,14 +28,14 @@
 
 <details align="left">
   <summary><h3>🛠 Языки Программирования</h3></summary>
-  <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,css,typescript&perline=7" width="200"/>
+  <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,css,typescript&perline=7" width="300"/>
 </details>
 
 <details align="left">
   <summary><h3>🔧 Инструменты и Фреймворки</h3></summary>
     <details>
       <summary><h4>🛠 Инструменты разработки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="200"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="300"/>
     </details>
 </p>
     <details>
