@@ -54,23 +54,12 @@
 <div align="center">
 
 # 📚 Проекты и Достижения 🏆
-</div>
-
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
-
-<div align="center">
 
 ## 1. 🧮 Терминальный Калькулятор 🧮
-</div>
-
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
 <div align="center">
   <img src="https://github.com/Stervar/Calculator-Terminal/blob/main/Снимок%20экрана%20(5).png" width="" alt="Терминальный Калькулятор">
 </div>
-
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
-
 
 **Описание проекта:**
 - Революционный математический инструмент
