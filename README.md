@@ -67,7 +67,7 @@
 <div align="center">
   <img src="https://github.com/Stervar/Calculator-Terminal/blob/main/Снимок%20экрана%20(5).png" width="" alt="Терминальный Калькулятор">
 </div>
-</p align="center">
+
 
 
 **Описание проекта:**
