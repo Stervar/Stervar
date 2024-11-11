@@ -40,17 +40,17 @@
       <summary><h4>🛠 Инструменты разработки</h4></summary>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="300"/>
     </details>
-
+</p>
     <details>
       <summary><h4>🌐 Фреймворки</h4></summary>
       <img src="https://skillicons.dev/icons?i=django,react,fastapi&perline=7" width="300"/>
     </details>
-
+</p>
     <details>
       <summary><h4>☁️ Облачные технологии</h4></summary>
       <img src="https://skillicons.dev/icons?i=aws,heroku,vercel&perline=7" width="300"/>
     </details>
-  </p>
+  
 </details>
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
   
