@@ -107,16 +107,23 @@
 - 🚀 Быстрое освоение новых технологий
 - 🤝 Командный игрок с индивидуальным почерком
 
+<div align="center">
+
 ## 📊 GitHub Статистика
+</div>
 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=radical)</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&layout=compact&theme=radical)
+<div align="center">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&layout=compact&theme=radical)</div>
+
+<div align="center">
 
 ## 🌐 Контакты
+</div>
 
 <div align="center">
   
