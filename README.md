@@ -36,11 +36,12 @@
 <details align="left">
   <summary><h3>🔧 Инструменты и Фреймворки</h3></summary>
   <p>
+  <h5>🛠 Инструменты разработки</h5>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="500"/>
+
     <h4>🌐 Фреймворки</h4>
     <img src="https://skillicons.dev/icons?i=django,react,fastapi&perline=7" width="500"/>
-    
-    <h4>🛠 Инструменты разработки</h4>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker&perline=7" width="500"/>
+
     
     <h4>☁️ Облачные технологии</h4>
     <img src="https://skillicons.dev/icons?i=aws,heroku,vercel&perline=7" width="500"/>
