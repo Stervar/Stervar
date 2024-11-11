@@ -1,7 +1,7 @@
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
 <div align="center">
-  <img src="https://github.com/Stervar/Stervar/blob/main/1519385761_giphy.gif" width="800" alt="Header">
+  <img src="https://github.com/Stervar/Stervar/blob/main/4Ahq.gif" width="800" alt="Header">
   
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
