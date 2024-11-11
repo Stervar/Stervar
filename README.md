@@ -51,7 +51,7 @@
 </details>
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
-  <div align="center">
+<div align="center">
 
 # 📚 Проекты и Достижения 🏆
 </div>
@@ -62,6 +62,7 @@
 
 ## 1. 🧮 Терминальный Калькулятор 🧮
 </div>
+
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
 <div align="center">
