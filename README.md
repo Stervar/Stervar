@@ -97,7 +97,10 @@
 - Генерация контента
 - Адаптивный интерфейс
 
+<div align="center">
+
 ## 🌟 Мои Преимущества
+</div>
 
 - 🔍 Постоянное самообразование
 - 💡 Креативный подход к решению задач
@@ -108,9 +111,10 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=radical)</div>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&layout=compact&theme=radical)
-</div>
+
 
 ## 🌐 Контакты
 
