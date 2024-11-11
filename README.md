@@ -50,8 +50,7 @@
 </p>
 </details>
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
-<div align="center">
+
 
 # 📚 Проекты и Достижения 🏆
 
