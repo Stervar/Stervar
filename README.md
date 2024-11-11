@@ -30,17 +30,17 @@
   <summary><h3>🛠 Языки Программирования</h3></summary>
   <img src="https://skillicons.dev/icons?i=py,html,postgres,javascript,css,typescript&perline=7" width="400"/>
 </details>
-
+</p>
 <details align="left">
   <summary><h3>🔧 Инструменты и Фреймворки</h3></summary>
     <details>
       <summary><h4>🛠 Инструменты разработки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=7" width="100"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=7" width="200"/>
     </details>
 </p>
     <details>
       <summary><h4>🌐 Фреймворки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=django&perline=7" width="50"/>
+      <img src="https://skillicons.dev/icons?i=django&perline=7" width="200"/>
     </details>
 </p>
 </details>
