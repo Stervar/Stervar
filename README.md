@@ -224,9 +224,10 @@
     </a>
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
+<div align="center">
 
 # 📊 GitHub Статистика 📊
-
+</div>
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
 
 <div align="center">
