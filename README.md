@@ -86,10 +86,13 @@
 - Лёгкая доступность
 - Точные вычисления
 
+
+ ### 📦 Скачать Калькулятор
 <div align="center">
-  <a href="https://github.com/Stervar/Snake-Terminal/releases/latest/download/snake_terminal.exe">
-    <img src="https://img.shields.io/badge/Скачать-Snake%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Calculator">
-  </a>
+    <a href="https://github.com/Stervar/Calculator-Terminal/releases/latest/download/calculator_terminal.exe">
+        <img src="https://img.shields.io/badge/Скачать-Calculator%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Calculator Terminal">
+    </a>
+</div>
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 <div align="center">
@@ -129,11 +132,13 @@
 - Расширенный механизм движения змейки
 - Поддержка нескольких языковых раскладок управления
 
+### 📦 Скачать игру "Snake-Terminal"
 <div align="center">
-  <a href="https://github.com/Stervar/Snake-Terminal/releases/latest/download/snake_terminal.exe">
-    <img src="https://img.shields.io/badge/Скачать-Snake%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Snake Terminal">
-  </a>
+    <a href="https://github.com/Stervar/Snake-Terminal/releases/latest/download/snake_terminal.exe">
+        <img src="https://img.shields.io/badge/Скачать-Snake%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Snake Terminal">
+    </a>
 </div>
+
 
 <div align="center">
 
