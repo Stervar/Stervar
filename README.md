@@ -166,9 +166,21 @@
 
 <div align="center">
     <a href="https://github.com/Stervar/Snake-Termenal">
-        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/Код%20проекта-Открыть-blue?style=for-the-badge&animation=pulse" alt="Pulse Animation">
     </a>
 </div>
+
+<style>
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+img[src*="animation=pulse"] {
+    animation: pulse 1.5s infinite;
+}
+</style>
 
 
 
