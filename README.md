@@ -117,6 +117,14 @@
     </a>
 </div>
 
+### 📦 Основной код "Calculator-Terminal"
+
+<div align="center">
+    <a href="https://github.com/Stervar/Calculator-Terminal">
+        <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+    </a>
+</div>
+
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 <div align="center">
 
@@ -166,7 +174,7 @@
 
 <div align="center">
     <a href="https://github.com/Stervar/Snake-Termenal">
-        <img src="https://img.shields.io/badge/View%20Code-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
+        <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
     </a>
 </div>
 
