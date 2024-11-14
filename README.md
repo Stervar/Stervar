@@ -174,8 +174,14 @@
         <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
     </a>
 
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<div align="center">
 
+##  🐍 Sbornik 🐍
+</div>
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
+![Скриншот Змейки](https://github.com/Stervar/Stervar/blob/main/assets/Снимок%20экрана%20-211.png)
 
 
 <div align="center">
