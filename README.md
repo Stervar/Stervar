@@ -214,6 +214,11 @@
 - Создание и редактирование рецептов
 - Логирование операций и ведение статистики по продажам
 
+### 📦 Основной код "Snake-Termenal" 📦
+
+  <a href="https://github.com/Stervar/Sbornik-3">
+        <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="Sbornik 3">
+    </a>
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
