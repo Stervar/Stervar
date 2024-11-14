@@ -86,7 +86,7 @@
 ## 2. 🐍 Snake-Termenal
 
 <div align="center">
-  <img src="https://github.com/Stervar/Stervar/blob/main/Снимок%20экрана%20(21).png" style="max-width: 550%; width: 50%;" alt="Скриншот Змейки">
+  <img src="https://github.com/Stervar/Stervar/blob/main/assets/Снимок%20экрана%20-21.png" style="max-width: 550%; width: 50%;" alt="Скриншот Змейки">
 
 </div>
 </div>
