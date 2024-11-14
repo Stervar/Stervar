@@ -57,8 +57,10 @@
 # 📚 Проекты и Достижения 🏆
 </div>
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
+<div align="center">
 
 ## 1. 🧮 Терминальный Калькулятор 🧮
+</div>
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
 ![Скриншот калькулятора](https://github.com/Stervar/Calculator-Terminal/blob/main/Снимок%20экрана%20(5).png)
@@ -81,10 +83,10 @@
 - Лёгкая доступность
 - Точные вычисления
 
-## 2. 🐍 Терминальные Игры
+## 2. 🐍 Snake-Termenal
 
 <div align="center">
-  <img src="path_to_terminal_games.png" width="600" alt="Терминальные Игры">
+  <img src="https://github.com/Stervar/Stervar/blob/main/assets/Снимок%20экрана%20(15).png" width="600" alt="Терминальные Игры">
 </div>
 
 **Проекты:**
