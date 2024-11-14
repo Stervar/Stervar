@@ -166,7 +166,7 @@
 
 <div align="center">
     <a href="https://github.com/Stervar/Snake-Termenal">
-        <img src="https://img.shields.io/badge/▶️%20Открыть%20код-green?style=for-the-badge" alt="Open Code">
+        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </div>
 
