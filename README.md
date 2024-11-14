@@ -130,7 +130,7 @@
 </div>
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
-![Скриншот Змейки](https://github.com/Stervar/Stervar/blob/main/assets/Снимок%20экрана%20-211.png)
+![Скриншот Змейки](https://github.com/Stervar/Stervar/blob/main/assets/Снимок%20экрана%20(25).png)
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
