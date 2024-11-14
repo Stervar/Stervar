@@ -86,7 +86,7 @@
 ## 2. 🐍 Snake-Termenal
 
 <div align="center">
-  <img src="https://github.com/Stervar/Stervar/blob/main/assets/Снимок%20экрана%20(15).png" width="600" alt="Терминальные Игры">
+  <img src="https://github.com/Stervar/Stervar/blob/main/assets/Снимок%20экрана%20(15).png" width="" alt="Терминальные Игры">
 </div>
 
 **Проекты:**
