@@ -89,7 +89,7 @@
 
  ### 📦 Скачать Калькулятор
 <div align="center">
-    <a href="https://github.com/Stervar/Calculator-Terminal/releases/latest/download/calculator_terminal.exe">
+    <a href="https://github.com/Stervar/Calculator-Terminal/releases/tag/calculator">
         <img src="https://img.shields.io/badge/Скачать-Calculator%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Calculator Terminal">
     </a>
 </div>
