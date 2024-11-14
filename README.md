@@ -110,14 +110,14 @@
 - Точные вычисления
 
 
- ### 📦 Скачать Калькулятор
+ ### 📦 Скачать "Calculator-Terminal" 📦
     
   <a href="https://github.com/Stervar/Calculator-Terminal/releases/tag/calculator">
         <img src="https://img.shields.io/badge/Скачать-Calculator%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Calculator Terminal">
     </a>
 
 
-### 📦 Основной код "Calculator-Terminal"
+### 📦 Основной код "Calculator-Terminal" 📦
 
   <a href="https://github.com/Stervar/Calculator-Terminal">
         <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
@@ -162,14 +162,14 @@
 - Расширенный механизм движения змейки
 - Поддержка нескольких языковых раскладок управления
 
-### 📦 Скачать игру "Snake-Terminal"
+### 📦 Скачать игру "Snake-Terminal" 📦
 
   <a href="https://github.com/Stervar/Snake-Termenal/releases/tag/Game">
         <img src="https://img.shields.io/badge/Скачать-Snake%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Snake Terminal">
     </a>
 
 
-### 📦 Основной код "Snake-Terminal"
+### 📦 Основной код "Snake-Terminal" 📦
 
   <a href="https://github.com/Stervar/Snake-Termenal">
         <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
