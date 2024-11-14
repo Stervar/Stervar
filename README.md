@@ -227,19 +227,25 @@
 
 # 📊 GitHub Статистика 📊
 
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
-
-
-</div>
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=radical)</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=radical&include_all_commits=true&count_private=true)</div>
 
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&layout=compact&theme=radical)</div>
 
+## 🕰️ Статистика кодирования
+
+<div align="center">
+
+[![Времени за кодингом](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
+
+### 📈 Статистика WakaTime за неделю
+
+<!--START_SECTION:waka-->
 
 
 
