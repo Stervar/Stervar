@@ -109,24 +109,20 @@
 - Лёгкая доступность
 - Точные вычисления
 
-<div align="center">
 
  ### 📦 Скачать Калькулятор
-<div align="center">
-    <a href="https://github.com/Stervar/Calculator-Terminal/releases/tag/calculator">
+    
+  <a href="https://github.com/Stervar/Calculator-Terminal/releases/tag/calculator">
         <img src="https://img.shields.io/badge/Скачать-Calculator%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Calculator Terminal">
     </a>
-</div>
 
-<div align="center">
 
 ### 📦 Основной код "Calculator-Terminal"
 
-<div align="center">
-    <a href="https://github.com/Stervar/Calculator-Terminal">
+  <a href="https://github.com/Stervar/Calculator-Terminal">
         <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
     </a>
-</div>
+
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 <div align="center">
@@ -167,19 +163,18 @@
 - Поддержка нескольких языковых раскладок управления
 
 ### 📦 Скачать игру "Snake-Terminal"
-<div align="center">
-    <a href="https://github.com/Stervar/Snake-Termenal/releases/tag/Game">
+
+  <a href="https://github.com/Stervar/Snake-Termenal/releases/tag/Game">
         <img src="https://img.shields.io/badge/Скачать-Snake%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Snake Terminal">
     </a>
-</div>
+
 
 ### 📦 Основной код "Snake-Terminal"
 
-<div align="center">
-    <a href="https://github.com/Stervar/Snake-Termenal">
+  <a href="https://github.com/Stervar/Snake-Termenal">
         <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
     </a>
-</div>
+
 
 
 
