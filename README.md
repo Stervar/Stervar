@@ -109,6 +109,7 @@
 - Лёгкая доступность
 - Точные вычисления
 
+<div align="center">
 
  ### 📦 Скачать Калькулятор
 <div align="center">
@@ -116,6 +117,8 @@
         <img src="https://img.shields.io/badge/Скачать-Calculator%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Calculator Terminal">
     </a>
 </div>
+
+<div align="center">
 
 ### 📦 Основной код "Calculator-Terminal"
 
