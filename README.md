@@ -134,7 +134,7 @@
 
 ### 📦 Скачать игру "Snake-Terminal"
 <div align="center">
-    <a href="https://github.com/Stervar/Snake-Termenal/tree/main/build/Snake-13">
+    <a href="https://github.com/Stervar/Snake-Termenal/releases">
         <img src="https://img.shields.io/badge/Скачать-Snake%20Terminal-blue?style=for-the-badge&logo=python" alt="Скачать Snake Terminal">
     </a>
 </div>
