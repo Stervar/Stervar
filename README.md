@@ -166,10 +166,9 @@
 
 <div align="center">
     <a href="https://github.com/Stervar/Snake-Termenal" target="_blank">
-        <img src="https://img.shields.io/badge/Посмотреть%20код-GitHub-green?style=for-the-badge&logo=github" alt="Код проекта">
+        🔗 Посмотреть код на GitHub
     </a>
 </div>
-
 
 
 
