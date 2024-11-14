@@ -162,13 +162,11 @@
     </a>
 </div>
 
-### 📦 Основной кож "Snake-Terminal"
+### 📦 Основной код "Snake-Terminal"
 
 <div align="center">
     <a href="https://github.com/Stervar/Snake-Termenal" target="_blank">
-        <button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 4px;">
-            Посмотреть код на GitHub
-        </button>
+        <img src="https://img.shields.io/badge/Посмотреть%20код-GitHub-green?style=for-the-badge&logo=github" alt="Код проекта">
     </a>
 </div>
 
