@@ -162,6 +162,16 @@
     </a>
 </div>
 
+### 📦 Основной кож "Snake-Terminal"
+
+<div align="center">
+    <a href="https://github.com/Stervar/Snake-Termenal" target="_blank">
+        <button style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border: none; border-radius: 4px;">
+            Посмотреть код на GitHub
+        </button>
+    </a>
+</div>
+
 
 
 
@@ -191,8 +201,6 @@
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/IIIASIll)
-</div>
 
 # 💭 Напутствие
 
