@@ -230,18 +230,20 @@
 <div align="center">
 
 # 📊 GitHub Статистика 📊
-</div>
-<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
-
+</div> 
+<h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2> 
 <div align="center">
-  
+
 ### 📈 Общая статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stervar&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Total Repositories](https://github-readme-stats.vercel.app/api?username=Stervar&count_private=true&show_icons=true&theme=radical)
+
 
 ### 🌍 Топ языков программирования
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stervar&layout=compact&theme=radical)
 
 
+
+</div>
 
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
