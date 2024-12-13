@@ -183,7 +183,7 @@
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 <div align="center">
 
-##  🗃️ Sbornik 🗃️
+##  🗃️ collection-of-all-practical-task-3 🗃️
 </div>
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣
 
@@ -222,8 +222,8 @@
 
 ### 📦 Основной код "Sbornik-3" 📦
 
-  <a href="https://github.com/Stervar/Sbornik-3">
-        <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="Sbornik 3">
+  <a href="https://github.com/Stervar/collection-of-all-practical-task-3">
+        <img src="https://img.shields.io/badge/View%20Code-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" alt="collection-of-all-practical-task-3">
     </a>
 
 <h2 align="center">◢⸻⸻⸻⸻⸻⸻⸻⸻⸻❃⸻⸻⸻⸻⸻⸻⸻⸻⸻◣</h2>
