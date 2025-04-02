@@ -23,7 +23,9 @@
 </p>
     <details>
       <summary><h4>🌐 Фреймворки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=Kivy,PyQt5,django&perline=7" width="80"/>
+     
+
+![Frameworks](https://skillicons.dev/icons?i=Kivy,PyQt5,django&perline=7)
     </details>
 </p>
 </details>
