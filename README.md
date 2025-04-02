@@ -21,11 +21,11 @@
       <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=7" width="200"/>
     </details>
 </p>
-Start Trial
+
 
 <details>
       <summary><h4>🌐 Фреймворки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=kivy,PyQt5,django&perline=7" width="80"/>
+      <img src="https://skillicons.dev/icons?i=django&perline=7" width="80"/>
     </details>
 </p>
 </details>
