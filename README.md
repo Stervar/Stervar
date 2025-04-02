@@ -23,7 +23,7 @@
 </p>
     <details>
       <summary><h4>🌐 Фреймворки</h4></summary>
-      <img src="https://skillicons.dev/icons?i=django&perline=7" width="80"/>
+      <img src="https://skillicons.dev/icons?i=Kivy,PyQt5,django&perline=7" width="80"/>
     </details>
 </p>
 </details>
